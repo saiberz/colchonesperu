@@ -1,0 +1,211 @@
+a {
+  color: #0677A1;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #0677A1;
+}
+#sp-bottom2 span,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #0677A1;
+}
+#offcanvas-toggler >i:hover {
+  color: #0677A1;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #0faae4;
+  background-color: #0677A1;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+.social-links>a,
+ul.social-icons >li a:hover {
+  color: #0677A1;
+}
+.sp-page-title {
+  background: #0677A1;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #0677A1;
+}
+.sp-module .letestnews >div >a {
+  color: #000000;
+}
+.sp-module .letestnews >div >a:hover {
+  color: #0677A1;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #0677A1;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #0677A1;
+}
+.search .btn-toolbar button {
+  background: #0677A1;
+}
+.post-formet {
+  background: #0677A1;
+}
+.voting-symbol span.star.active:before {
+  color: #0677A1;
+}
+.sp-reting span.star:hover:before,
+.sp-reting span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #0677A1;
+}
+.lt-team-item,
+blockquote {
+  border-color: #0677A1;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #0677A1;
+}
+#sp-footer {
+  background: #0677A1;
+}
+.sp-comingsoon body {
+  background-color: #0677A1;
+}
+.paginetion>li>a,
+.paginetion>li>span {
+  color: #000000;
+}
+.paginetion>li>a:hover,
+.paginetion>li>a:focus,
+.paginetion>li>span:hover,
+.paginetion>li>span:focus {
+  color: #000000;
+}
+.paginetion>.active>a,
+.paginetion>.active>span {
+  border-color: #0677A1;
+  background-color: #0677A1;
+}
+.paginetion>.active>a:hover,
+.paginetion>.active>a:focus,
+.paginetion>.active>span:hover,
+.paginetion>.active>span:focus {
+  border-color: #0677A1;
+  background-color: #0677A1;
+}
+.lt-intro-item:hover i,
+.lt-felture-item:hover i,
+.lt-portfolio-button:hover,
+.lt-action-button:hover,
+.lt-table-item:hover button,
+#lt-pricing .single-table:nth-child(2) {
+  background: #0677A1;
+}
+.lt-about-content-item i,
+.lt-title h2,
+.lt-intro-item i,
+.lt-felture-item h4,
+.lt-table-item h3,
+.lt-service-item h4,
+.lt-service-item i,
+.lt-table-item .table-price .price,
+.lt-table-item button:hover a,
+.lt-testimonial p.qx-designltion,
+.lt-testimonial button {
+  color: #0677A1; 
+}
+.lt-felture-item:hover i,
+.lt-portfolio-button:hover,
+.lt-action-button:hover,
+.lt-table-item:hover,
+.lt-service-item .button-service,
+.lt-table-item button,
+.lt-subscribe-content table .button:hover {
+  border-color: #0677A1;
+}
+/* Important */
+.lt-slider .tp-caption  b,
+.lt-team-item:hover p,
+.lt-about h4,
+.lt-title h6,
+.lt-title-1 h6,
+.lt-service-item:hover h3,
+.lt-feature-item i,
+.sticky-wrapper.is-sticky .sp-megamenu-parent >li.active>a,
+.sticky-wrapper.is-sticky .sp-megamenu-parent >li:hover>a,
+.lt-title h4,
+.lt-team-item .qx-person-position,
+.lt-about h5,
+.sticky-wrapper.is-sticky .sp-megamenu-parent >li.active>a,
+.lt-feature-item h4,
+.lt-title h3,
+.lt-bottom-history-item .qx-nc-number,
+.lt-feature-item h3,
+.lt-who-bottom .qx-percent span.qx-percent-value,
+.lt-who-bottom .qx-percent span.qx-percent,
+.lt-bottom-history-item-4 .qx-nc-number,
+.tp-caption.modern_medium_fat_white, .modern_medium_fat_white,
+.sp-megamenu-parent >li.active>a, 
+.sp-megamenu-parent >li:hover>a,
+.lt-blog div.k2ItemsBlock ul li a,
+.lt-services-item:hover i,
+.lt-who-bottom h4,
+.lt-consultant-sub h4,
+.pagination>li>a,
+#lt-project .projects-wrapper .project-img .project-img-extra .project-img-extra-content a,
+.lt-service-item h3,
+.lt-blog ul li .moduleItemDateCreated,
+.lt-services-item:hover h4 {
+  color: #0677A1!important; 
+}
+.lt-contact #sp-quickcontact-form .button:hover,
+.projects-filter a.selected,
+ .lt-why-chose-item i,
+ .lt-counter,
+ #lt-testimonial .button:hover,
+ #lt-feature .lt-button:hover,
+.lt-service-item .button-service,
+ .lt-pricing-item .table-footer,
+ .lt-pricing-item .table-heading,
+ .lt-we-do-item .qx-progress-bar,
+ .lt-allowing,
+.qx-btn,
+.lt-feature-item::before,
+.lt-slider .tp-caption a,
+.lt-we-do-item i,
+.jorange,
+.btn.btn-border:hover,
+.lt-contact-item:hover i,
+.lt-contact-form button,
+.lt-subscribe-content table .button:hover {
+  background: #0677A1!important;  
+}
+#lt-pricing .single-table,
+.lt-contact #sp-quickcontact-form .button:hover,
+.lt-service-item:hover,
+.lt-slider .tp-caption a,
+.btn-primary, .sppb-btn-primary,
+.lt-contact-item i,
+.jorange,
+.pagination>.active>a,
+.lt-we-do-item i {
+  border-color: #0677A1!important; 
+}
+.btn-primary, .sppb-btn-primary,
+.pagination>.active>a,
+ button {
+    background-color: #0677A1!important;  
+}
+.projects-wrapper .project-img .project-img-extra {
+    background-image: -webkit-linear-gradient(top , #002e5bb8 0%, rgba(0, 46, 91, 0.64) 100%)!important;
+}

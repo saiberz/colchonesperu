@@ -1,0 +1,31 @@
+.jd_page_nav {
+    width: 200px;
+}
+.pagination>.active>a {
+  color:#fff!important;
+}
+.jd_files_title {
+    padding: 7px 7px!important;
+}
+#lt-dowload span {
+  font-size:20px;
+  font-weight:bold;
+}
+#lt-dowload .moduletable {
+	border: 5px solid #ffa500;
+	padding: 15px!important;
+}
+#lt-dowload .moduletable a {
+	color: #333;
+	font-size: 15px;
+}
+ button {
+   background-color: #F13C20!important;
+    border: none;
+    margin-top: 20px;
+    color: #fff;
+    padding: 5px 10px;
+}
+.input-mini {
+    width:67px!important;
+}
